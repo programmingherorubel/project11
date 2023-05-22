@@ -1,0 +1,8 @@
+.subscribe{
+    padding: 100px 0px ;
+    background:linear-gradient(rgba(0, 0, 0, 0.63),rgba(0, 0, 0, 0.63)),url(../assets/subscribe.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
